@@ -37,30 +37,6 @@
 .icon-close:before {
   content: "\ea0d";
 }
-/*tipo de selector{
-	propiedad:valor;
-}*/
-/*Selector de clase*/
-/*
-*{
-	padding: 10px;
-	border: 2px solid red;
-	lo mismo para margin
-	padding: 10px;
-	padding-top: 10px; 
-	padding-right: : 13px;
-	padding-bottom: 5px;
-	padding-left: 15px;*/
-	/*Manecillas de reloj, Arriba, derecha, abajo, izq*/
-	/*padding:10px 13px 5px 15px; 
-	margin: 10px;
-	margin-top
-	margin: 10px;
-	margin-top: 10px; 
-	margin-right: : 13px;
-	margin-bottom: 5px;
-	margin-left: 15px;
-}*/
 
 body {
 	font-family: 'Allerta', sans-serif;
